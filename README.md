@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @AFireandFlamer
-- 👀 I’m interested in building out projects in my life and .. in code, soon to be - things that I think are important and cool. I like discovering things that are hidden, I like finding bugs. I like fixing things also meaning solving problems.
-- 🌱 I’m currently learning coding, art, and how to be a player. I think: a really important life skill.
-- - 💞️ I’m looking to collaborate on work that is ltimately meaningful.
+- 👀 I’m interested in building out important project work in my life and... in code! Soon to be, that is. I'll only really work on things that I think are important, and cool/useful to society. I like discovering things that are hidden, I like finding bugs. I like fixing things as in solving problems.
+- 
+- 🌱 I’m currently learning coding, art, and how to be a player. I think it is a very important life skill
+- 
+- - 💞️ I’m looking to collaborate on work that is ultimately meaningful.
 - 📫 How to reach me. My Email is samfishman24@gmail.com: just include "Github" as a part of the subject line.
 
 <!---
